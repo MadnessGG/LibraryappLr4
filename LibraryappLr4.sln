@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34518.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryappLr4", "LibraryappLr4\LibraryappLr4.csproj", "{587CE686-BAC1-458C-A803-08EE388172DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587CE686-BAC1-458C-A803-08EE388172DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587CE686-BAC1-458C-A803-08EE388172DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587CE686-BAC1-458C-A803-08EE388172DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587CE686-BAC1-458C-A803-08EE388172DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD4AA58D-FB89-43FA-995E-4B68362D0216}
+	EndGlobalSection
+EndGlobal
